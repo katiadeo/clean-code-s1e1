@@ -41,10 +41,12 @@
   margin: 0;
   padding: 0px;
 }
-.task-item, .title {
+.task-item, 
+.title {
   list-style: none;
 }
-.task,.button{
+.task,
+.button{
   outline: none;
 }
 .button {
@@ -105,11 +107,11 @@
   justify-content: space-between;
   align-items: center;
 }
-/* .task-item > * {
+.task-item > * {
   vertical-align: middle;
-} */
+}
 
-.task-item > input-checkbox {
+.task-item > .input-checkbox {
   margin: 0 10px;
 }
 .task-item > .label {
