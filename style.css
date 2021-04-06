@@ -18,9 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
+  
   .heading { 
     text-align: center;
   }
+  
 }
 .main-page {
   display: block;
