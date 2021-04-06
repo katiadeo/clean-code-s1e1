@@ -111,7 +111,7 @@
   vertical-align: middle;
 }
 
-.task-item > input-checkbox {
+.task-item > .input-checkbox {
   margin: 0 10px;
 }
 .task-item > .label {
